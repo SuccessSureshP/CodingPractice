@@ -4,3 +4,6 @@ C:\Users\Suresh\Source\Repos\Coding_Practice\DP_DD_ArrayTreasure_Traps\DP_DD_Arr
 C:\Users\Suresh\Source\Repos\Coding_Practice\DP_DD_ArrayTreasure_Traps\DP_DD_ArrayTreasure_Traps\obj\Debug\DP_DD_ArrayTreasure_Traps.csprojResolveAssemblyReference.cache
 C:\Users\Suresh\Source\Repos\Coding_Practice\DP_DD_ArrayTreasure_Traps\DP_DD_ArrayTreasure_Traps\obj\Debug\DP_DD_ArrayTreasure_Traps.exe
 C:\Users\Suresh\Source\Repos\Coding_Practice\DP_DD_ArrayTreasure_Traps\DP_DD_ArrayTreasure_Traps\obj\Debug\DP_DD_ArrayTreasure_Traps.pdb
+C:\Users\Suresh\Source\Repos\CodingPractice\DP_DD_ArrayTreasure_Traps\DP_DD_ArrayTreasure_Traps\bin\Debug\DP_DD_ArrayTreasure_Traps.exe.config
+C:\Users\Suresh\Source\Repos\CodingPractice\DP_DD_ArrayTreasure_Traps\DP_DD_ArrayTreasure_Traps\obj\Debug\DP_DD_ArrayTreasure_Traps.exe
+C:\Users\Suresh\Source\Repos\CodingPractice\DP_DD_ArrayTreasure_Traps\DP_DD_ArrayTreasure_Traps\obj\Debug\DP_DD_ArrayTreasure_Traps.pdb
